@@ -1,0 +1,13 @@
+span.status{
+	display: block;
+	height: 1rem;
+	width: 1rem;
+	margin: 6px auto;
+	border-radius: 50%
+}
+span.active{
+	background-color: green;
+}
+span.inactive{
+	background-color: red;
+}
